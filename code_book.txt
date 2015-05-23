@@ -77,25 +77,25 @@ tBodyGyroJerk.std...Y	Standard Deviation of the time domain signal measurements 
 
 tBodyGyroJerk.std...Z	Standard Deviation of the time domain signal measurements of Body Gyroscope Jerk in the  z.axis
 
-tBodyAccMag.mean()	Mean of the time domain signal measurements of Body Acceleration Magnitude
+tBodyAccMag.mean..	Mean of the time domain signal measurements of Body Acceleration Magnitude
 
-tBodyAccMag.std()	Standard Deviation of the time domain signal measurements of Body Acceleration Magnitude
+tBodyAccMag.std..	Standard Deviation of the time domain signal measurements of Body Acceleration Magnitude
 
-tGravityAccMag.mean()	Mean of the time domain signal measurements of Gravity Acceleration Magnitude
+tGravityAccMag.mean..	Mean of the time domain signal measurements of Gravity Acceleration Magnitude
 
-tGravityAccMag.std()	Standard Deviation of the time domain signal measurements of Gravity Acceleration Magnitude
+tGravityAccMag.std..	Standard Deviation of the time domain signal measurements of Gravity Acceleration Magnitude
 
-tBodyAccJerkMag.mean()	Mean of the time domain signal measurements of Body Acceleration Jerk Magnitude
+tBodyAccJerkMag.mean..	Mean of the time domain signal measurements of Body Acceleration Jerk Magnitude
 
-tBodyAccJerkMag.std()	Standard Deviation of the time domain signal measurements of Body Acceleration Jerk Magnitude
+tBodyAccJerkMag.std..	Standard Deviation of the time domain signal measurements of Body Acceleration Jerk Magnitude
 
-tBodyGyroMag.mean()	Mean of the time domain signal measurements of Body Gyroscope Magnitude
+tBodyGyroMag.mean..	Mean of the time domain signal measurements of Body Gyroscope Magnitude
 
-tBodyGyroMag.std()	Standard Deviation of the time domain signal measurements of Body Gyroscope Magnitude
+tBodyGyroMag.std..	Standard Deviation of the time domain signal measurements of Body Gyroscope Magnitude
 
-tBodyGyroJerkMag.mean()	Mean of the time domain signal measurements of Body Gyroscope Jerk Magnitude
+tBodyGyroJerkMag.mean..	Mean of the time domain signal measurements of Body Gyroscope Jerk Magnitude
 
-tBodyGyroJerkMag.std()	Standard Deviation of the time domain signal measurements of Body Gyroscope Jerk Magnitude
+tBodyGyroJerkMag.std..	Standard Deviation of the time domain signal measurements of Body Gyroscope Jerk Magnitude
 
 fBodyAcc.mean...X	Mean value of the frequency domain signal measurements of Body Acceleration in the  x.axis
 
@@ -151,29 +151,29 @@ fBodyGyro.meanFreq...Y	Mean Frequency of the frequency domain signal measurement
 
 fBodyGyro.meanFreq...Z	Mean Frequency of the frequency domain signal measurements of Body Gyroscope Jerk in the  z.axis
 
-fBodyAccMag.mean()	Mean of the frequency domain signal measurements of Body Acceleration Magnitude
+fBodyAccMag.mean..	Mean of the frequency domain signal measurements of Body Acceleration Magnitude
 
-fBodyAccMag.std()	Standard Deviation of the frequency domain signal measurements of Body Acceleration Magnitude
+fBodyAccMag.std..	Standard Deviation of the frequency domain signal measurements of Body Acceleration Magnitude
 
-fBodyAccMag.meanFreq()	Mean Frequency of the frequency domain signal measurements of Body Acceleration Magnitude
+fBodyAccMag.meanFreq..	Mean Frequency of the frequency domain signal measurements of Body Acceleration Magnitude
 
-fBodyBodyAccJerkMag.mean()	Mean of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
+fBodyBodyAccJerkMag.mean..	Mean of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
 
-fBodyBodyAccJerkMag.std()	Standard Deviation of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
+fBodyBodyAccJerkMag.std..	Standard Deviation of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
 
-fBodyBodyAccJerkMag.meanFreq()	Mean Frequency of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
+fBodyBodyAccJerkMag.meanFreq..	Mean Frequency of the frequency domain signal measurements of Body Acceleration Jerk Magnitude
 
-fBodyBodyGyroMag.mean()	Mean of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
+fBodyBodyGyroMag.mean..	Mean of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
 
-fBodyBodyGyroMag.std()	Standard Deviation of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
+fBodyBodyGyroMag.std..	Standard Deviation of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
 
-fBodyBodyGyroMag.meanFreq()	Mean Frequency of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
+fBodyBodyGyroMag.meanFreq..	Mean Frequency of the frequency domain signal measurements of Body Acceleration Gyroscope Magnitude
 
-fBodyBodyGyroJerkMag.mean()	Mean of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
+fBodyBodyGyroJerkMag.mean..	Mean of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
 
-fBodyBodyGyroJerkMag.std()	Standard Deviation of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
+fBodyBodyGyroJerkMag.std..	Standard Deviation of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
 
-fBodyBodyGyroJerkMag.meanFreq()	Mean Frequency of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
+fBodyBodyGyroJerkMag.meanFreq..	Mean Frequency of the frequency domain signal measurements of Body Acceleration Gyroscope Jerk Magnitude
 
 
 
